@@ -3,5 +3,7 @@
 # LogCode https://osp4diss.vslm.org/ETC/logCodes.txt
 ZCZC W00 10 L00 General Log
 ZCZC W00 15 L03 GitHub
+ZCZC W00 10 L04 GitHub Pages: setting, etc.
 ZCZC W00 10 L01 SCELE
 ZCZC W00 10 L01 SCELE
+ZCZC W00 30 L06 Reading References/Books/Documents (os00.pdf)
