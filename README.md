@@ -7,4 +7,4 @@
 
 ### Weekly Projects
 
-1. [W01](https://abdurrohmanjafar.github.io/os211/w01)
+1. [W01](https://abdurrohmanjafar.github.io/os211/W01)
