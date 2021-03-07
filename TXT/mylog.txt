@@ -13,3 +13,6 @@ ZCZC W01 90 L05 GSGS
 ZCZC W01 95 L11 Assignment #1
 ZCZC W01 70 L12 Assignment #2
 ZCZC W01 10 L16 Assignment #6
+ZCZC W01 10 L13 Assignment #3 (learning vi)
+ZCZC W01 15 L14 Assignment #4
+ZCZC W01 30 L18 Assignment #8
