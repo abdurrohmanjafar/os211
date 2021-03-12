@@ -4,7 +4,9 @@
 * **[Github Account](https://github.com/abdurrohmanjafar/)**
 * **[os211 repository](https://github.com/abdurrohmanjafar/os211/)**
 * **[My Log](https://abdurrohmanjafar.github.io/os211/TXT/mylog.txt)**
+* **[My Rank](https://abdurrohmanjafar.github.io/os211/TXT/myrank.txt)**
 
 ### Weekly Projects
 
-1. **[W01](https://abdurrohmanjafar.github.io/os211/W01/)**
+* **[W01](https://abdurrohmanjafar.github.io/os211/W01/)**
+* **[W02](https://abdurrohmanjafar.github.io/os211/W02/)**
