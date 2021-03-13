@@ -26,3 +26,7 @@ ZCZC W02 60 L05 GSGS
 ZCZC W02 20 L01 SCELE
 ZCZC W02 90 L10 Assignment (setting key)
 ZCZC W02 70 L05 GSGS
+ZCZC W02 25 L06 Reading References/Books/Documents (os02.pdf)
+ZCZC W02 45 L05 GSGS
+ZCZC W02 40 L10 Assignment (update mylog.txt and update list top 10 of week 2)
+ZCZC W02 25 L06 Reading References/Books/Documents (OSC10 Chapter 16 and 17)
