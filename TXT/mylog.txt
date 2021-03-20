@@ -37,4 +37,6 @@ ZCZC W02 25 L10 Assignment
 ZCZC W02 25 L05 GSGS
 ZCZC W02 30 L23 Discord: Pop Quiz
 ZCZC W03 60 L05 GSGS
-ZCZC W03 90 L10 Assignment
+ZCZC W03 90 L10 Assignment (update myscript.sh and create myW03.tar.bz2.asc)
+ZCZC W03 65 L05 GSGS
+ZCZC W03 80 L10 Assignment (do top 10 list of week 03 and rank for week 2)
