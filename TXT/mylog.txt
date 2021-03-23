@@ -43,3 +43,5 @@ ZCZC W03 80 L10 Assignment (do top 10 list of week 03 and rank for week 2)
 ZCZC W03 30 L23 Discord: Pop Quiz
 ZCZC W03 90 L05 GSGS
 ZCZC W03 80 L10 Assignment (do top 10 list and update log)
+ZCZC W03 30 L01 Scele (Pop Quiz)
+ZCZC W03 25 L01 Scele
