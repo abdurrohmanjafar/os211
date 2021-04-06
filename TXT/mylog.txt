@@ -53,3 +53,8 @@ ZCZC W04 85 L10 Assignment (do top 10 list of week 04 and rank for week 3)
 ZCZC W05 35 L01 Scele (Pop Quiz)
 ZCZC W05 90 L05 GSGS
 ZCZC W05 95 L10 Assignment (create WEEK05-DEMO05.txt, WEEK05-abdurrohmanjafar-158MB, Rank for week 4, and update log)
+ZCZC W05 40 L23 Discord: Pop Quiz
+ZCZC W05 35 L05 GSGS
+ZCZC W05 40 L10 Assignment (do top 10 of week 5 and update log)
+ZCZC W05 70 L05 GSGS
+ZCZC W05 80 L10 Assignment (do top 10 of week 5 and update log)
