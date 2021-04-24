@@ -13,4 +13,4 @@
 * **[W03](https://abdurrohmanjafar.github.io/os211/W03/)**
 * **[W04](https://abdurrohmanjafar.github.io/os211/W04/)**
 * **[W05](https://abdurrohmanjafar.github.io/os211/W05/)**
-* **[W06](https://abdurrohmanjafar.github.io/os211/w06/)**
+* **[W06](https://abdurrohmanjafar.github.io/os211/W06/)**
