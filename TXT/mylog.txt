@@ -65,3 +65,7 @@ ZCZC W06 70 L10 Assignment (create WEEK06-FORK.txt)
 ZCZC W06 65 L10 Assignment (do top 10 of week 6 and rank for week 5)
 ZCZC W06 80 L05 GSGS
 ZCZC W06 85 L10 Assignment (do top 10 of week 6 and update log)
+ZCZC W07 30 L01 Scele (Pop Quiz)
+ZCZC W07 30 L01 Scele (Pop Quiz)
+ZCZC W07 50 L05 GSGS
+ZCZC W07 55 L10 Assignment (create myW07.tar.bz2.asc) 

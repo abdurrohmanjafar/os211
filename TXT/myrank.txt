@@ -1,4 +1,4 @@
-# TOP 10 Rank
+#TOP 10 Rank
 ZCZC W01 Ageng-Anugrah 
 ZCZC W01 AldiNFitrah
 ZCZC W01 ahmadhaydar
@@ -14,3 +14,6 @@ ZCZC W04 AldiNFitrah
 ZCZC W05 AlifHazairin
 ZCZC W05 Ageng-Anugrah
 ZCZC W05 advistasyam
+ZCZC W06 Ageng-Anugrah
+ZCZC W06 AlifHazairin
+ZCZC W06 adamyrayeuk
