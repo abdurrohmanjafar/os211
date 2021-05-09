@@ -75,4 +75,6 @@ ZCZC W07 95 L10 Assignment (do top 10 of week 7 and update log)
 ZCZC W08 30 L01 Scele (Pop Quiz)
 ZCZC W08 30 L01 Scele (Pop Quiz)
 ZCZC W08 55 L05 GSGS
-ZCZC W08 95 L10 Assigment (create WEEK08-REPORT1.txt, WEEK08-REPORT2.txt, and WEEK08-md5sum.txt)
+ZCZC W08 95 L10 Assignment (create WEEK08-REPORT1.txt, WEEK08-REPORT2.txt, and WEEK08-md5sum.txt)
+ZCZC W08 50 L05 GSGS
+ZCZC W08 85 L10 Assignment (do task of week 8, update log, rank for week 7, and top 10 for week 8)
